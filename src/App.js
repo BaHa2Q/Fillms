@@ -7,7 +7,6 @@ import {BrowserRouter as Router,Switch,Route} from "react-router-dom";
 import Menu from "./Componte/Menu";
 import Layout from "./Componte/NavbarWebSite/Layout";
 import Error404 from "./Componte/error404";
-import Root from "./Componte/Root";
 
 
 function App() {
@@ -17,17 +16,13 @@ function App() {
             <Layout/>
               <div>
               <Switch>  
-                <Route exact path="/" >
-                <Root>
-                </Root>
-                </Route>
                 <Route path="/About-Fillm/:id" >
                   <AboutFillm />
                 </Route>
                 <Route path="/password">
                 <Password/>
                 </Route>
-                <Route path= "/Fillm">
+                <Route path= "/">
                   <Menu> <Fillm/> </Menu>
                   </Route> 
                   <Route path= "/newfillm">
