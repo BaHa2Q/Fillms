@@ -1,5 +1,4 @@
 import Fillm from "./Componte/Fillm"
-import Password from "./Componte/Informtion";
 import Newfillm from "./Componte/New-fillm";
 import AboutFillm from "./Componte/About_Fillm";
 import './Componte/css/Menu.css'
