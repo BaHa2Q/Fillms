@@ -16,18 +16,15 @@ function App() {
             <Layout/>
               <div>
               <Switch>  
+                  <Route path= "/newfillm">
+                  <Menu> <Newfillm/> </Menu>
+                </Route>
                 <Route path="/About-Fillm/:id" >
                   <AboutFillm />
-                </Route>
-                <Route path="/password">
-                <Password/>
                 </Route>
                 <Route path= "/">
                   <Menu> <Fillm/> </Menu>
                   </Route> 
-                  <Route path= "/newfillm">
-                  <Menu> <Newfillm/> </Menu>
-                </Route>
                 <Route path="/*">
                   <Error404/>
                 </Route>
