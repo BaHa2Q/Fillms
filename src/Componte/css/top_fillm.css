@@ -1,0 +1,110 @@
+/* .container-top-fillm {
+  position: relative;
+  height: 182px;
+  margin: 11px 10px 3px 22px;
+  width: 128px;
+}
+a.Link-top-fillm {
+  position: absolute;
+  padding: 0px;
+}
+.img-top-fillm {
+  border: 2px solid red;
+  width: 128px;
+  height: 183px;
+}
+.text-top{
+  background: rgb(47 47 47);
+  box-shadow: 0px 4px 4px -2px #0000001f;
+  border-left: 1px solid #3c3c3c;
+  width: 170px;
+  height: 52px;
+  z-index: 1;
+  top: 0px;
+  left: 1px;
+  position: sticky;
+  }
+  
+  .Top-form p{
+    text-align: center;
+    position: relative;
+    font-size: 22px;
+    top: -7px;
+    color: #fff;
+  }
+  img.image-top-fillm {
+    position: absolute;
+    object-fit: initial;
+    width: 128px;
+    height: 183px;
+}
+   .Top-form{
+    background: rgb(46 47 47 / 69%);
+    max-height: 291px;
+    top: 95px;
+    width: 174px;
+    left: 1133px;
+    display: grid;
+    position: absolute;
+    overflow-x: hidden;
+  } */
+
+
+  .Top-form{
+    position: absolute;
+    border-left: 1px #393939 solid;
+    right: 0;
+    overflow-x: auto;
+    top: 121px;
+    width: 230px;
+    box-shadow: 1px 1px 6px 0px black;
+    height: 100%;
+  }
+  
+  .container-top-fillm {
+  }
+  .Top{
+    width: 119px;
+    
+    margin: 0px 0px 0px 50px;
+    
+  }
+    .cover{
+      width: 100px;
+      
+    }
+    .texttop{
+      
+      max-width: 224px;
+      border-bottom:  1px #616161 solid;
+      color: #fff;
+      
+      font-size: 32px;
+      margin: 0;
+      padding: 4px;
+      text-align: center;
+    }
+    .cards{
+      border:1px solid darkblue;
+      position: relative;
+      width: 100px;
+      margin: 10px;
+      height: 150px;
+      overflow: hidden;
+    }
+    .image-top{
+
+      transition: transform 1s;
+      width:100px;
+      height:150px
+    }
+    .image-top,.cover,.card{
+      border-radius: 20px;
+    }
+    .image-top:hover{
+      transform: scale(1.1);
+      
+    }
+
+
+    

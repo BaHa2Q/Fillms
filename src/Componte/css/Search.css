@@ -1,0 +1,70 @@
+p,h1,h2,h3,h4,h5,h6,span,tr,th,div{
+    font-family: 'Viga', sans-serif;
+}
+svg.iconify {
+    position: absolute;
+    top: 6px;
+    z-index: 1;
+    color: #fff;
+    font-size: 25px;
+    left: 11px;
+}
+
+.nav-Search{
+    position: absolute;
+    top: 27px;
+    left: 49px;
+}
+
+
+.Search {
+    background: #505050;
+    color: #222222;
+    border: 1px solid rgb(118, 118, 118);
+    outline: none;
+    border-radius: 7px;
+    padding-left: 69px;
+    color: #222222;
+    font-size: 16px;
+    padding: 8px 0 9px 42px;
+    width: 195px;
+    position: relative;
+}
+.Search:hover {
+    background: #4b4b4b;
+    transition:border 200ms;
+}
+
+.Search:focus {
+    background: #4b4b4b;
+    border: 1px solid #2196f3;
+
+}
+
+
+
+.filter{
+    background: #4b4b4b;
+    position: absolute;
+    margin: 0px;
+    left: 48px;
+    top: 76px;
+    border: 1px solid rgb(118, 118, 118);
+    border-radius: 0px 0px 10px 10px;
+    width: 237px;
+    box-shadow: 0 4px 6px 0 rgb(32 33 36 / 28%);
+}
+.wef3{
+    margin: 0;
+    color: #222222;
+    font-size: 13px;
+    padding: 8px 0 12px 12px;
+}
+.LinkSearch{
+    text-decoration: none;
+    
+}
+
+.wef3:hover {
+    background: radial-gradient(#757575, #3c3c3c);
+}

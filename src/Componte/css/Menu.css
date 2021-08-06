@@ -1,0 +1,53 @@
+p,h1,h2,h3,h4,h5,h6,span,tr,th,div{
+    font-family: 'Viga', sans-serif;
+}
+
+ 
+@font-face {
+    font-family: myFirstFont;
+    src: url(Minecraft.ttf);
+ }
+
+ .Menu-Moveis {
+    width: 100%;
+    position: relative;
+    display: grid;
+    border-top-left-radius: 30px;
+    box-shadow: 0px 0px 5px 0px black;
+    height: 100px;
+    z-index: 10000;
+
+}
+.nav-menu {
+    margin: 13px;
+    height: 69px;
+
+}
+
+.But-Movies{
+    position: relative;
+    overflow: hidden;
+    width: 23%;
+    bottom: 9%;
+    padding: 15px 41px;
+    left: 38%;
+}
+ 
+a.Menu-But{
+
+    padding: 11px;
+    color: white;
+    background-color: chartreuse;
+    text-decoration: none;
+    font-size: 17px;
+    width: 100%;
+    text-align: center;
+}
+.li-nav{
+    display: inline;
+    margin: 11px;
+}
+
+a.Menu-But:hover{
+
+}

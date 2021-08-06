@@ -1,0 +1,27 @@
+.navbar{
+    position: fixed;
+    width: 100%;
+    height: 100px;
+    top: 0;
+    left: 0;
+    z-index: 1000;
+}
+.nav{
+
+}
+
+.nav .Hub {
+    float: right;
+    margin: 10px;
+    padding: 14px 34px;
+}
+
+.nav .fillm , .newfillm{
+    margin-left: 10px;
+    background-color: brown;
+    position: relative;
+    right: 520px;
+}
+.nav .Hub{
+    background-color: rgb(91, 91, 225);
+}
