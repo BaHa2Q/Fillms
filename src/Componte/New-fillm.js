@@ -1,7 +1,6 @@
 import React,{ useState } from 'react'
 
 import { Movies } from './data.json'
-import { Link } from "react-router-dom";
 
 function Newfillm() {
     const newfillm = Movies.Fillms.filter((newfillm) =>{return newfillm.NEW})

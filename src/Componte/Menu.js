@@ -13,9 +13,9 @@ function Menu(props) {
         
             <div className="hub">
                 <div id="T" className={`Menu${Show ? " Menu-show" : " Menu-hide"}`}>
-                    <a  onClick={() => setShow(!Show)} id="show" className={`Close${Show ? " Show-icon":" Hide-icon"}`}>
+                    <button  onClick={() => setShow(!Show)} id="show" className={`Close${Show ? " Show-icon":" Hide-icon"}`}>
                         <span class="iconify" data-icon="bi:arrow-right-circle-fill" data-inline="false" />
-                    </a>
+                    </button>
                 </div>
                 <div className={`Forms${Show ? " forms-show" : " forms-hide"}`}>
                         <Navbarfillm/>
