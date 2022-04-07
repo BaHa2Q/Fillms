@@ -1,0 +1,17 @@
+
+{
+    "Movies" : 
+        {
+            "Fillms" : 
+                      [{ "id": 2332654641057724789085906 , "Name": "Test","img":"/img/Test.jpg" , "Evaluation": 4 ,"NEW": true,"description": ""},
+                       { "id": 2052590700102119943330016 , "Name": "Moveis","img":"/img/Moveis.jpg" , "Evaluation": 10 ,"NEW": false,"description": ""},
+                       { "id": 6980056898347791152005925 , "Name": "Game ","img":"/img/Game.png" , "Evaluation": 30,"NEW": true,"description": ""},
+                       { "id": 7725928246377353916015780 , "Name": "Ainbo Movie ","img":"/img/Ainbo Movie.jpg" , "Evaluation": 40,"NEW": false,"description": "In the spirit of Moana and Frozen, 'Ainbo - Spirit of the Amazon' is the epic journey of a young hero and her Spirit Guides, Dillo a cute and humorous armadillo and Vaca a goofy oversized tapir, who embark on a quest to save their home in the spectacular Amazon Rainforest."},
+                       { "id": 7637245563663001858605220 , "Name": "Disney Hunger Games ","img":"/img/Disney Hunger Games.jpg", "Evaluation": 50 ,"NEW": false,"description": "the Hunger Games poster, in the style of Disney / Pixar animation!"},
+                       { "id": 7831053026581791189253938 , "Name": "Monster House ","img":"/img/Monster House.jpg" , "Evaluation":60 ,"NEW": false,"description": "Three teens discover that their neighbor's house is really a living, breathing, scary monster."},
+                       { "id": 3088219866317468550749163 , "Name": "Disney's Raya and the Last Dragon ","img":"/img/New Promotional Image Released for Disney's Raya and the Last Dragon - Disney Dining Information.jpg","Evaluation": 70 ,"NEW": false,"description": ""},
+                       { "id": 9628004258373732635135589 , "Name": "The Spiderwick Chronicles ","img":"/img/The Spiderwick Chronicles (2008).jpg", "Evaluation":80 ,"NEW": true,"description": ""},
+                       { "id": 8998203752915712883622174 , "Name": "The Stolen Princess ","img":"/img/The Stolen Princess (2018) - IMDb.png", "Evaluation": 90 ,"NEW": true,"description": ""},
+                       { "id": 1967833667282713559932874 , "Name": "Wizart’s Snow Queen 2 ","img":"/img/Wizart’s Snow Queen 2 gets new poster, images.jpg", "Evaluation": 98 ,"NEW": false,"description": ""}] 
+           }
+}

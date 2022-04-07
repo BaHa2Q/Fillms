@@ -1,0 +1,17 @@
+*{
+    color: aqua;
+}
+body{
+    background-color: #181818;
+}
+blockquote{
+    text-align: center;
+    font-size: 20px;
+    color: aliceblue;
+}
+blockquote h2{
+ color: red;
+ font-size: 100px;
+}
+
+
